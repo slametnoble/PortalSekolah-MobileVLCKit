@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobileVLCKit",
-            url: "https://github.com/slametnoble/PortalSekolah-MobileVLCKit/releases/download/v3.7.0/PortalSekolah-MobileVLCKit-3.7.0.zip",
+            url: "https://github.com/slametnoble/PortalSekolah-MobileVLCKit/releases/download/v3.7.1/PortalSekolah-MobileVLCKit-3.7.1.zip",
             checksum: "b0273d318816f30e4d2050ee0c1521bf93a130ede6b13b5cefa76dee0fe12445"
         )
     ]
